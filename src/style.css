@@ -1,0 +1,4 @@
+.todo-item span.completed {
+  text-decoration: line-through;
+  color: #999;
+}
